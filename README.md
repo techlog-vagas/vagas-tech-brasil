@@ -31,3 +31,9 @@ Repositório para divulgação de vagas de tecnologia no Brasil.
 - Pleno
 - Sênior
 - Especialista
+
+
+## Contato
+ 
+Envie seu currículo:
+grf@orangefox.com.br
