@@ -52,6 +52,6 @@ Cidade/Estado:
 
 ## Como se candidatar
 
-Link da vaga ou WhatsApp:
+Link da vaga, E-mail ou WhatsApp:
 
 ## Observações
