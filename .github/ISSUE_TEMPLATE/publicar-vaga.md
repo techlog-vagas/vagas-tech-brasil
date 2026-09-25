@@ -30,6 +30,15 @@ Cidade/Estado:
 - [ ] Sênior
 - [ ] Especialista
 
+## Modalidade de Contratação
+- [ ] CLT
+- [ ] PJ
+- [ ] Cooperado
+- [ ] Freelancer
+- [ ] Temporário
+- [ ] Estágio
+- [ ] Aprendiz
+
 ## Faixa Salarial
 (opcional)
 
