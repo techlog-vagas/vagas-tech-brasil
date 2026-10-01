@@ -32,8 +32,12 @@ Repositório para divulgação de vagas de tecnologia no Brasil.
 - Sênior
 - Especialista
 
+## Como se candidatar
+
+Envie seu currículo:
+grf@orangefox.com.br
 
 ## Contato
  
 Envie seu currículo:
-grf@orangefox.com.br
+https://api.whatsapp.com/send?phone=5511930673577
