@@ -39,5 +39,5 @@ grf@orangefox.com.br
 
 ## Contato
  
-Envie seu currículo:
+Dúvidas:
 https://api.whatsapp.com/send?phone=5511930673577
