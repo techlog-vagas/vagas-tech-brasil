@@ -52,6 +52,8 @@ Cidade/Estado:
 
 ## Como se candidatar
 
-Link da vaga, E-mail ou WhatsApp:
+Envie seu currículo: (Link da vaga, E-mail ou WhatsApp)
 
-## Observações
+## Contato
+
+Dúvidas: 
